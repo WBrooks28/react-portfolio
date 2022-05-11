@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.23f2148b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.1d29ee05.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1d29ee05.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.a81a3bfd.chunk.js": "/react-portfolio/static/js/2.a81a3bfd.chunk.js",
+    "static/js/2.a81a3bfd.chunk.js.map": "/react-portfolio/static/js/2.a81a3bfd.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.f116918a0c4235dd3bc4e6e5cfc8242b.js": "/react-portfolio/precache-manifest.f116918a0c4235dd3bc4e6e5cfc8242b.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.23f2148b.chunk.css.map": "/react-portfolio/static/css/main.23f2148b.chunk.css.map",
+    "static/js/2.a81a3bfd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.a81a3bfd.chunk.js.LICENSE.txt",
+    "static/media/book-search-img.PNG": "/react-portfolio/static/media/book-search-img.55033899.PNG",
+    "static/media/budget-img.PNG": "/react-portfolio/static/media/budget-img.311bf482.PNG",
+    "static/media/cod-connect-img.png": "/react-portfolio/static/media/cod-connect-img.e6d2fb4d.png",
+    "static/media/password-img.PNG": "/react-portfolio/static/media/password-img.545f5e07.PNG",
+    "static/media/picture-me.PNG": "/react-portfolio/static/media/picture-me.0fb10b86.PNG",
+    "static/media/tabletop-img.PNG": "/react-portfolio/static/media/tabletop-img.033ba347.PNG",
+    "static/media/task-img.PNG": "/react-portfolio/static/media/task-img.e15e959e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.a81a3bfd.chunk.js",
+    "static/css/main.23f2148b.chunk.css",
+    "static/js/main.1d29ee05.chunk.js"
+  ]
+}
