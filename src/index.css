@@ -116,9 +116,9 @@ button[disabled] {
   opacity: .8;
 }
 
-img {
+/* img {
   max-width: 100%;
-}
+} */
 
 span[role="img"] {
   cursor: default;
